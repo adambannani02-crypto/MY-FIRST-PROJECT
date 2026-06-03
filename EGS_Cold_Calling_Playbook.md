@@ -64,22 +64,22 @@ This is the most important section. Study this before you call any industry.
 *(Factories, production lines, assembly plants)*
 
 **What keeps them up at night:**
-- Outsource parts to suppliers who take too long to deliver
-- Get parts that don't fit properly — wrong size, bad finish, waste money
-- Pay high prices for small orders because big suppliers don't want small jobs
-- Hard to find one supplier who can do cutting, welding, AND bending together
-- Prototype a new product but no one can make a sample fast enough
+- Their current fabrication partner takes too long and misses deadlines
+- Parts come back with wrong dimensions — have to re-order, waste time and money
+- Big fabricators don't want small or custom orders — they only care about volume
+- No single partner can handle the full scope — cutting, welding, AND bending together
+- Need a prototype made fast but nobody can turn it around quickly
 
 **What they wish they had:**
-- A fabrication partner with fast turnaround and tight tolerances
-- Someone who can handle the full job — not just one process
-- A supplier who picks up the phone and actually delivers on time
+- A direct fabrication team with fast turnaround and tight tolerances
+- Someone who can handle the full job — not pass it to another subcontractor
+- A partner who communicates well and actually delivers on time
 
 **How EGS solves this:**
-- Fiber laser cutting with tight tolerances — parts fit right the first time
-- Full in-house capability: cutting, bending, welding, powder coating
-- Fast lead times on custom and small-batch orders
-- CAD and 3D design support — can work from a sketch or concept
+- EGS owns their own factory and equipment — no middlemen, no delays from third parties
+- Full direct capability: fiber laser cutting, bending, TIG/MIG welding, powder coating — all under one roof
+- Fast lead times because everything is done in-house, not outsourced
+- CAD and 3D design support — can work from a sketch, file, or concept
 
 ---
 
@@ -188,15 +188,15 @@ This is the most important section. Study this before you call any industry.
 
 *(Wait for them to say okay)*
 
-> *"We work with manufacturers and factories here in Malaysia — and the most common thing we hear is that their fabrication supplier always takes too long, or the parts come out wrong and they have to re-order. Is that something your team faces as well?"*
+> *"We work with manufacturers and factories here in Malaysia — and the most common thing we hear is that their fabrication partner takes too long, or the parts come back with the wrong dimensions and they have to re-order. Is that something your team has faced before?"*
 
 *(Listen to their answer — this is important)*
 
 **If yes / sometimes:**
-> *"Yeah that's very common. We actually solved that problem for Toyota — they needed precision laser-cut parts on a fast turnaround and their previous supplier kept missing tolerances. We handle the full process in-house — cutting, bending, welding — so there's no middleman slowing things down. Would it make sense to have a quick 15-minute call with whoever manages your fabrication or sourcing?"*
+> *"Yeah, that's very common. The reason it happens is usually because the fabricator is passing the job to someone else — so by the time it reaches you, nobody really owns the quality. We work differently — we own our own factory and equipment, so everything is done by our team directly. We actually worked with Toyota on precision laser-cut parts and they came to us because their previous supplier kept missing tolerances. Would it make sense to have a quick 15-minute call with whoever manages your fabrication or sourcing?"*
 
 **If no / we handle it ourselves:**
-> *"Good to hear — do you do prototyping in-house as well, or do you outsource that? Sometimes companies are fine on regular production but struggle when they need a new part made fast."*
+> *"Good to hear — do you ever need custom parts or prototypes made fast? Sometimes companies are fine on regular production but hit a wall when they need something new made quickly. That's where we usually come in."*
 
 ---
 
