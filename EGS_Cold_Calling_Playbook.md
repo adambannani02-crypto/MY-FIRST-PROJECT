@@ -1,292 +1,397 @@
-# Eve Global Solutions — Cold Calling Playbook
-### For: Adam Mohamed | Sales Manager
-### Last Updated: June 2026
+# EGS Cold Calling Playbook
+### Adam Mohamed — Sales Manager, Eve Global Solutions
+### Updated: June 2026
 
 ---
 
-## THE GOLDEN RULE BEFORE YOU DIAL
+## QUICK NAVIGATION
 
-> **Confused prospects don't buy. They deflect.**
-
-Your only job on a cold call is NOT to sell. It is to earn 10 more minutes with the right person.
-Every word you say should either build curiosity, establish credibility, or move toward a booked meeting.
-
----
-
-## PART 1 — UNDERSTANDING WHO YOU ARE CALLING
-
-Before you dial, you must know:
-1. **What industry is this company in?**
-2. **What problem does that industry commonly face?**
-3. **Which EGS service solves that problem?**
-4. **Which client name can you drop that they will recognise?**
-
-Never use the same script for every company. A coffee shop owner thinks differently from a factory operations manager.
+| Section | What It Covers |
+|--------|----------------|
+| [Part 1 — Before You Call](#part-1--before-you-call) | What to prepare before dialling |
+| [Part 2 — The Call Structure](#part-2--the-call-structure) | 5 steps to follow every call |
+| [Part 3 — Industry Pain Points](#part-3--industry-pain-points) | Common problems each industry faces |
+| [Part 4 — Scripts by Industry](#part-4--scripts-by-industry) | What to say, word for word |
+| [Part 5 — Gatekeeper Tactics](#part-5--gatekeeper-tactics) | How to get past the receptionist |
+| [Part 6 — Objection Handling](#part-6--objection-handling) | Replies to common pushbacks |
+| [Part 7 — WhatsApp Follow-Up](#part-7--whatsapp-follow-up) | What to send after the call |
+| [Part 8 — Mindset](#part-8--mindset) | How to stay sharp |
+| [Quick Reference Card](#quick-reference-card) | One page summary — print this |
 
 ---
 
-## PART 2 — THE CALL FRAMEWORK (USE THIS EVERY TIME)
+## THE ONE RULE TO REMEMBER
 
-Every call — regardless of industry — follows this 5-step structure:
+> **People don't care about your company. They care about their problem.**
+> Your job is to show them you understand their problem — then offer a solution.
+
+---
+
+## PART 1 — BEFORE YOU CALL
+
+Answer these 4 questions before every call:
+
+- [ ] What industry is this company? (Factory / Developer / Café / Designer / Shop)
+- [ ] What problem does that industry commonly face? (See Part 3)
+- [ ] Which EGS service helps with that problem?
+- [ ] Which big client name can I mention that they will recognise?
+
+**Target: 10 calls minimum per day. Quality over speed — but volume matters.**
+
+---
+
+## PART 2 — THE CALL STRUCTURE
+
+Follow this order every time. Total time: under 90 seconds.
 
 ```
-STEP 1 — INTRO        Say your name and company. Confident. Short.
-STEP 2 — REASON       Name ONE specific problem they likely face (industry-specific)
-STEP 3 — CREDIBILITY  Drop ONE relevant client name
-STEP 4 — QUESTION     Ask if that problem is real for them right now
-STEP 5 — NEXT STEP    Book a meeting or get the decision-maker's direct contact
+STEP 1 — INTRODUCE YOURSELF     Short. Confident. First name + company only.
+STEP 2 — NAME THEIR PROBLEM     Say a problem they likely have before talking about yourself.
+STEP 3 — SHOW CREDIBILITY       Mention one big client you've helped with the same problem.
+STEP 4 — ASK ONE QUESTION       Find out if the problem is real for them right now.
+STEP 5 — GET THE NEXT STEP      Book a meeting or get the decision maker's name and number.
 ```
 
-**Time target: Steps 1–4 should take under 60 seconds.**
+---
+
+## PART 3 — INDUSTRY PAIN POINTS
+
+This is the most important section. Study this before you call any industry.
 
 ---
 
-## PART 3 — GATEKEEPER RULES
+### MANUFACTURING COMPANIES
+*(Factories, production lines, assembly plants)*
 
-A gatekeeper is anyone who answers the phone but is NOT the decision-maker.
-This includes receptionists, assistants, junior staff.
+**What keeps them up at night:**
+- Outsource parts to suppliers who take too long to deliver
+- Get parts that don't fit properly — wrong size, bad finish, waste money
+- Pay high prices for small orders because big suppliers don't want small jobs
+- Hard to find one supplier who can do cutting, welding, AND bending together
+- Prototype a new product but no one can make a sample fast enough
 
-### Your ONLY goal with a gatekeeper:
-- Get the **name** of the decision-maker
-- Get their **direct number or email**
-- Or book a **specific callback time**
+**What they wish they had:**
+- A fabrication partner with fast turnaround and tight tolerances
+- Someone who can handle the full job — not just one process
+- A supplier who picks up the phone and actually delivers on time
 
-### What NOT to do with a gatekeeper:
-- Do NOT pitch your services to them
-- Do NOT explain what EGS does in detail
-- Do NOT accept "just WhatsApp us" without getting a name first
-
-### Gatekeeper Script:
-
-> *"Hi, I'm Adam from Eve Global Solutions — who would be the right person to speak to about your renovation or fabrication projects? Is that the operations manager or the owner directly?"*
-
-Once they give you a name:
-
-> *"Is [Name] available now, or is there a better time I can reach them directly?"*
-
-If they say the boss is busy:
-
-> *"No problem — what's a good time to call back and ask for [Name] directly?"*
-
-Write down the name. Call back and ask for that person by name. You will get through more often.
+**How EGS solves this:**
+- Fiber laser cutting with tight tolerances — parts fit right the first time
+- Full in-house capability: cutting, bending, welding, powder coating
+- Fast lead times on custom and small-batch orders
+- CAD and 3D design support — can work from a sketch or concept
 
 ---
 
-## PART 4 — HANDLING THE "JUST WHATSAPP US" OBJECTION
+### PROPERTY DEVELOPERS & CONSTRUCTION COMPANIES
+*(Housing developers, commercial builders, project management firms)*
 
-This is your most common objection. Do NOT just say okay and hang up.
+**What keeps them up at night:**
+- Subcontractors who go MIA halfway through a project
+- Delays that push the handover date — clients start complaining
+- Have to hire 3 different contractors for metal, interior, and carpentry work
+- Quality is inconsistent — looks good in photo but poor on close inspection
+- Getting competitive quotes that end up having hidden costs
 
-**Response:**
+**What they wish they had:**
+- One reliable contractor who can handle multiple scopes at once
+- A team that shows up, finishes on time, and does clean work
+- Someone they can trust with premium clients and big project names
 
-> *"Sure, I can send something over — but just so I send you what's actually relevant, can I ask: are you currently working on any projects that involve fabrication or renovation?"*
-
-Wait for their answer. Then:
-
-> *"Got it — I'll make sure what I send is specific to that. And is this the best number to follow up on, or is there someone specific I should address it to?"*
-
-**What this does:**
-- Keeps the conversation alive
-- Qualifies whether they are a real prospect
-- Gets you a named contact to follow up with
-
-**After the call — send the WhatsApp voice note, NOT a text message.**
-Voice notes in Malaysia get 3x more replies than text. Keep it under 45 seconds. Be direct and friendly.
+**How EGS solves this:**
+- End-to-end service: metalwork, interior fit-out, renovation, carpentry — one team
+- Proven track record with Sunway Construction and Amazon Data Center
+- CAD and 3D design — they know exactly what they are building before it starts
 
 ---
 
-## PART 5 — INDUSTRY-SPECIFIC SCRIPTS
+### INTERIOR DESIGN STUDIOS
+*(ID firms, freelance designers, architecture studios)*
+
+**What keeps them up at night:**
+- Their design vision is beautiful — but contractors can't execute it properly
+- Custom pieces like feature walls or decorative metalwork are hard to source
+- Fabricators who say yes to everything but deliver the wrong thing
+- Back-and-forth revisions waste time and delay project handover
+- Clients complain that the final result doesn't match the design
+
+**What they wish they had:**
+- A fabrication partner who can read design files (DWG, DXF, AI) and execute accurately
+- Someone who understands aesthetics — not just a rough welder
+- Fast turnaround on custom pieces without sacrificing quality
+
+**How EGS solves this:**
+- In-house CAD and 3D design team — we build from your files exactly
+- Laser-cut panels, custom metalwork, bespoke furniture, Islamic decor, feature walls
+- Experience delivering design-driven projects (academic facade works, luxury interiors)
+
+---
+
+### F&B BUSINESSES
+*(Cafes, restaurants, bubble tea shops, food courts)*
+
+**What keeps them up at night:**
+- Their outlet looks the same as every other café on the block
+- Renovation contractor gave a cheap quote — but the result looks cheap too
+- Planning to open a second outlet but last renovation took too long and cost too much
+- Signage fades or breaks after a few months
+- Custom furniture they ordered looks nothing like what was shown in the catalogue
+
+**What they wish they had:**
+- A fit-out team that makes their space look premium without premium pricing
+- Fast build timeline — every day delayed is a day not making money
+- One team to handle everything: interior, signage, furniture, metalwork
+
+**How EGS solves this:**
+- Full interior fit-out: custom furniture, feature walls, signage, metalwork — one team
+- Powder-coated signage that lasts — not the cheap ones that fade in 6 months
+- We work fast and we communicate clearly throughout the job
+
+---
+
+### SIGNAGE & RETAIL BUSINESSES
+*(Retail chains, showrooms, brand offices, commercial properties)*
+
+**What keeps them up at night:**
+- Cheap signage makes their brand look bad
+- Signage supplier always delays — no updates, no timeline, just excuses
+- Opening a new outlet and need signage done fast
+- Old signage is damaged or faded — hurts the brand image
+- Need custom metalwork for shopfront but can't find someone who does it properly
+
+**What they wish they had:**
+- A signage partner who delivers on time with premium finish
+- Someone who can do laser-cut metal signage — not just vinyl stickers
+- Clean, branded look across multiple outlets
+
+**How EGS solves this:**
+- Precision laser-cut signage in stainless steel, mild steel, brass
+- Powder coating for durability — looks sharp for years
+- Past work with Rock 7 Group and GreenBay across multiple commercial sites
+
+---
+
+## PART 4 — SCRIPTS BY INDUSTRY
+
+**How to use these scripts:**
+- Read them out loud before you call until it feels natural
+- Do NOT read from the script during the call — just know the flow
+- Adjust based on what the person says — this is a conversation, not a speech
 
 ---
 
 ### SCRIPT A — MANUFACTURING COMPANIES
-**Target:** Factory operations managers, procurement heads, production managers
-**Their pain:** Outsourcing fabrication is slow, inconsistent quality, and expensive
-**EGS angle:** Precision fabrication, laser cutting, fast lead times
-**Drop this client name:** Toyota
 
-**Opening:**
-> *"Hi, this is Adam — Adam Mohamed. Quick question — do you currently outsource any metal fabrication or laser-cut parts for your production line?"*
+**Call opener:**
 
-Wait for answer. Then:
+> *"Hi, this is Adam — Adam Mohamed. Sorry to bother you for a second — I just wanted to ask a quick question."*
 
-> *"We work with companies like Toyota for precision fabrication and we typically cut lead times significantly compared to generic suppliers. I wanted to find out if that's something relevant for you right now."*
+*(Wait for them to say okay)*
 
-**If yes or maybe:**
-> *"Would it make sense to set up a quick 15-minute call with whoever handles your fabrication sourcing so I can show you what we've done for similar companies?"*
+> *"We work with manufacturers and factories here in Malaysia — and the most common thing we hear is that their fabrication supplier always takes too long, or the parts come out wrong and they have to re-order. Is that something your team faces as well?"*
 
-**If no:**
-> *"Understood — do you foresee any upcoming projects where custom metalwork or laser cutting might come up? Even prototyping?"*
+*(Listen to their answer — this is important)*
+
+**If yes / sometimes:**
+> *"Yeah that's very common. We actually solved that problem for Toyota — they needed precision laser-cut parts on a fast turnaround and their previous supplier kept missing tolerances. We handle the full process in-house — cutting, bending, welding — so there's no middleman slowing things down. Would it make sense to have a quick 15-minute call with whoever manages your fabrication or sourcing?"*
+
+**If no / we handle it ourselves:**
+> *"Good to hear — do you do prototyping in-house as well, or do you outsource that? Sometimes companies are fine on regular production but struggle when they need a new part made fast."*
 
 ---
 
 ### SCRIPT B — PROPERTY DEVELOPERS & CONSTRUCTION COMPANIES
-**Target:** Project directors, operations managers, procurement officers
-**Their pain:** Subcontractors who are unreliable, can't handle end-to-end scope
-**EGS angle:** End-to-end fit-out, fabrication, construction, renovation
-**Drop these client names:** Sunway Construction, Amazon Data Center
 
-**Opening:**
-> *"Hi, Adam here from Eve Global Solutions. We handle end-to-end interior fit-out and metal fabrication for developers — we've completed projects for Sunway Construction and Amazon's data center here in Malaysia."*
+**Call opener:**
 
-Then:
-> *"I was calling to find out — do you have any upcoming fit-out or renovation projects where you'd need a reliable fabrication partner?"*
+> *"Hi, Adam here from Eve Global Solutions. I'll be quick — is this a good time for 2 minutes?"*
 
-**If they have upcoming projects:**
-> *"That's great timing. Can I arrange a short meeting with your project team to walk through how we typically work and what we can take off your plate?"*
+*(Wait for yes)*
 
-**If nothing now:**
-> *"No problem — when does your next project cycle typically start? I'd rather reach you at the right time than the wrong one."*
+> *"We work with developers and construction companies — and one of the biggest complaints we hear is that they have to manage 3 or 4 different contractors for one project. Metal guy, interior guy, carpentry guy — all on different timelines. That usually ends up costing more time and more money. Does that sound familiar to your team?"*
+
+*(Listen)*
+
+**If yes:**
+> *"We actually solve that completely — we're one team that covers fabrication, interior fit-out, metalwork, and renovation from start to finish. We've done this for Sunway Construction and for Amazon's data center here in Malaysia. Can I set up a short meeting with your project director or operations team to show you how we work?"*
+
+**If we have our own contractors:**
+> *"Understood — do you ever face situations where your contractor can't handle a specific scope and you need a specialist last minute? That's usually where we come in. Good to have us on your backup list at least."*
 
 ---
 
 ### SCRIPT C — INTERIOR DESIGN STUDIOS
-**Target:** Studio owners, lead designers, project coordinators
-**Their pain:** Hard to find fabricators who can execute their design accurately without compromising the vision
-**EGS angle:** Custom metalwork, laser-cut panels, bespoke furniture, CAD/3D design capability
-**Drop this client name:** Kulliyyah of Nursing (facade work), custom decor projects
 
-**Opening:**
-> *"Hi, I'm Adam from Eve Global Solutions. We work as a fabrication partner for interior designers — custom metalwork, laser-cut decorative panels, furniture builds — all executed from your design files."*
+**Call opener:**
 
-Then:
-> *"A lot of designers we talk to come to us when they need something custom that regular contractors just can't execute properly. Is that something you've run into on recent projects?"*
+> *"Hi, is this [Company Name]? Great — I'm Adam from Eve Global Solutions. Quick question for you."*
+
+> *"We talk to a lot of interior designers and the most common frustration we hear is that their fabricator says yes to everything — but when the piece arrives, it doesn't match the design at all. End up wasting time on revisions and the client is not happy. Does that happen to you as well?"*
+
+*(Listen)*
 
 **If yes:**
-> *"That's exactly the kind of work we specialise in. Can I send you our portfolio of custom pieces and set up a quick call to see if there's a fit?"*
+> *"We built a fabrication service specifically to solve that problem. We work directly from your design files — DWG, DXF, AI — and we do laser cutting, custom metalwork, furniture, and decorative panels in-house. The designer stays in control of the output. Can I send you our portfolio and set up a short call to see if there's a fit?"*
 
-**If no:**
-> *"Good to know — do you have a fabrication partner you're currently using for custom builds? I'm not looking to replace anyone, just want to be on your radar for when you need a second option or a specialist job."*
+**If we have a regular fabricator:**
+> *"That's good — I'm not trying to replace anyone. I just want to be your second option for the jobs that need extra precision or a faster turnaround. Can I send you our portfolio so you have our contact when that time comes?"*
 
 ---
 
-### SCRIPT D — F&B (RESTAURANTS, CAFES, BUBBLE TEA SHOPS)
-**Target:** Owner, business partner, outlet manager (who usually has the owner's ear)
-**Their pain:** Generic-looking space, expensive renovation, slow contractors, planning a second outlet
-**EGS angle:** Custom interior fit-out, signage, branded furniture, feature walls
-**Drop these client names:** Previous F&B or retail work (or mention "commercial interior projects")
+### SCRIPT D — F&B BUSINESSES (CAFES, RESTAURANTS)
 
-**Opening:**
-> *"Hi, Adam here. We do custom interior fit-out and signage for F&B outlets — things like feature walls, custom furniture, and branded signage that makes a space stand out."*
+**Call opener:**
 
-Then:
-> *"I was calling because we're working on projects in your area and I wanted to check — do you have any upcoming renovation, or are you planning to open a second outlet?"*
+> *"Hi, Adam here. Is the owner or manager around? I just have a quick question."*
 
-**If planning expansion:**
-> *"That's perfect timing. We've done this for several F&B owners and the biggest thing they tell us is that they wished they found us earlier in the planning stage. Can we set up a quick site visit or call with whoever is making the decisions on the fit-out?"*
+*(Once connected to the right person)*
 
-**If renovated recently:**
-> *"No worries — how long ago did you last renovate? I'll make a note to follow up closer to when you might be thinking about a refresh. Places usually revisit it every 3–5 years."*
+> *"I'll be straight with you — we do interior fit-out and custom signage for café and restaurant owners. The biggest thing we hear from F&B owners is that their space doesn't really stand out, or their last renovation cost too much and didn't look like what they paid for. Is that something you've experienced?"*
+
+*(Listen)*
+
+**If planning to renovate or open new outlet:**
+> *"Perfect timing. We handle the full job — interior design, custom furniture, signage, metalwork — everything under one roof so you're not chasing multiple contractors. And we move fast because we know every day of delay is one less day of business. Can we set up a quick site visit this week?"*
+
+**If renovated recently / not now:**
+> *"No problem — when did you last renovate? Most F&B owners think about refreshing after 2 to 3 years. I'll keep your contact and reach out closer to that time. Mind if I send you our portfolio on WhatsApp in the meantime?"*
 
 ---
 
 ### SCRIPT E — SIGNAGE & RETAIL BUSINESSES
-**Target:** Business owners, marketing managers, retail chain operations
-**Their pain:** Signage that fades, looks cheap, or doesn't match their brand. Slow turnaround.
-**EGS angle:** Precision laser-cut signage, powder-coated metalwork, aluminum structures
-**Drop these client names:** Rock 7 Group, GreenBay INC
 
-**Opening:**
-> *"Hi, this is Adam from Eve Global Solutions. We specialise in precision laser-cut signage and branded metalwork — we've done work for Rock 7 Group and GreenBay across multiple commercial sites."*
+**Call opener:**
 
-Then:
-> *"I wanted to reach out because we're taking on new signage projects and I wanted to find out — do you have any upcoming store openings, rebranding, or signage replacements coming up?"*
+> *"Hi, this is Adam from Eve Global Solutions — do you have 2 minutes?"*
 
-**If yes:**
-> *"Great — can I set up a quick call or visit with whoever handles your brand or operations side? I can bring samples and give you a rough cost range."*
+> *"We specialise in laser-cut metal signage and branded metalwork for commercial businesses. And honestly, the number one thing we hear from business owners is that their signage either looks cheap or fades too fast — and it ends up making their brand look bad. Is that something you've faced before?"*
 
----
+*(Listen)*
 
-## PART 6 — OBJECTION HANDLING CHEAT SHEET
+**If yes / planning new signage:**
+> *"We've done signage and facade work for Rock 7 Group and GreenBay across multiple sites. Precision laser cutting, powder-coated finish — the kind that actually lasts and looks premium. Can I show you some samples and give you a rough quote? Shouldn't take more than 15 minutes."*
 
-| Objection | What They Really Mean | Your Response |
-|-----------|----------------------|---------------|
-| *"Just send us a WhatsApp"* | I don't want to deal with this now | *"Sure — just so I send the right thing, who should I address it to and what kind of projects are you working on?"* |
-| *"We already have a supplier"* | I'm not in pain right now | *"Understood — I'm not asking you to switch. I just want to be your backup option when your current supplier can't deliver something. Can I send you our portfolio?"* |
-| *"We're not interested"* | You haven't made this relevant to me | *"Fair enough — can I ask what kind of fabrication or renovation work you do handle, just so I know if we're even relevant for the future?"* |
-| *"Send us an email"* | I want to get off the phone | *"Will do — who's the best person to address it to so it doesn't get lost?"* |
-| *"We don't have budget right now"* | Not a priority right now | *"That makes sense — when does your budget cycle typically open up? I'd rather reach you at the right time."* |
-| *"I'm not the right person"* | You've reached a gatekeeper | *"No problem — who would be the right person for this? Can you give me their name so I can reach them directly?"* |
+**If happy with current supplier:**
+> *"Good to hear — just out of curiosity, do they do laser-cut metal or mainly vinyl? Because that's where we're different. I'll send you our portfolio so you can see the quality. No pressure."*
 
 ---
 
-## PART 7 — THE WHATSAPP FOLLOW-UP SYSTEM
+## PART 5 — GATEKEEPER TACTICS
 
-After every call where they ask you to WhatsApp, follow this system:
+A gatekeeper is anyone who answers but CANNOT make decisions.
+*(Receptionist, junior staff, assistant)*
 
-### Step 1 — Send a Voice Note First (under 45 seconds)
-Say:
-> *"Hi [Name], this is Adam from Eve Global Solutions — we just spoke. I wanted to follow up as promised. We specialise in [relevant service] and we've worked with [relevant client name]. I'd love to show you what we've done and see if there's a fit. Let me know when's a good time for a quick call or meeting. Thanks."*
+### Your ONLY goal with a gatekeeper:
+Get the decision-maker's **name** and **direct number** — nothing else.
 
-### Step 2 — Send a Text Message with ONE image
-Follow the voice note immediately with:
-- One line: what EGS does
-- One relevant client name
-- One clear call to action
+---
 
-Example:
-> *"Hi [Name], Adam from Eve Global Solutions here. We handle precision fabrication, laser cutting, and interior fit-out — trusted by Amazon, Toyota & Sunway. Would love to show you our portfolio. Are you free for a 15-min call this week?"*
+**Script to get past them:**
+
+> *"Hi, I'm Adam from Eve Global Solutions. Who would be the right person to speak to about your renovation or fabrication projects — is that the operations manager or the owner directly?"*
+
+Once they give you a name:
+
+> *"Is [Name] available now? Or what's a good time to reach them directly?"*
+
+If they say the boss is busy:
+
+> *"No problem — I'll call back. Just to make sure I reach the right person, is it [Name] I should ask for?"*
+
+**Write the name down. Call back. Ask for that person directly. You will get through more often.**
+
+---
+
+### What NOT to do with gatekeepers:
+- Do NOT explain what EGS does — they cannot help you
+- Do NOT pitch anything — it will end with "just WhatsApp us"
+- Do NOT give up without getting a name
+
+---
+
+## PART 6 — OBJECTION HANDLING
+
+| What They Say | What They Really Mean | What You Say |
+|--------------|----------------------|--------------|
+| *"Just send us a WhatsApp"* | I want to get off the phone | *"Sure — just so I send the right thing, can I ask what kind of projects you're currently working on? And who should I address it to?"* |
+| *"We already have a supplier"* | Not in pain right now | *"Understood — I'm not asking you to switch. Just want to be on your radar as a backup when your current supplier can't deliver. Can I send you our portfolio?"* |
+| *"We're not interested"* | You haven't shown it's relevant | *"Fair enough — can I ask what kind of fabrication or renovation work you handle? Just want to know if we're even relevant for the future."* |
+| *"Send us an email"* | Polite way to dismiss | *"Sure — who should I address it to so it doesn't get lost in a general inbox?"* |
+| *"No budget right now"* | Not a priority | *"That makes sense — when does your budget cycle open up? I'd rather reach you at the right time."* |
+| *"I'm not the right person"* | Gatekeeper | *"No problem — who is the right person for this? Can you give me their name?"* |
+
+---
+
+## PART 7 — WHATSAPP FOLLOW-UP
+
+After every call that ends with "WhatsApp us" — do this in order:
+
+### Step 1 — Voice Note First (under 45 seconds)
+
+> *"Hi [Name], this is Adam from Eve Global Solutions — we just spoke. I wanted to follow up as I promised. We help [their industry] with [their pain point] and we've worked with [relevant client name]. Would love to show you what we've done — let me know when is a good time for a quick call or meeting. Thank you."*
+
+### Step 2 — Text Message with ONE Image
+
+Send immediately after the voice note:
+
+> *"Hi [Name], Adam here from Eve Global Solutions. We handle [service relevant to them] — trusted by [client name]. Happy to share our portfolio and see if we can help. Free for a 15-min call this week?"*
+
+Attach: one clean photo of relevant work (renovation, fabrication, signage — match their industry)
 
 ### Step 3 — Follow Up in 3 Days
-If no reply, send one more voice note:
-> *"Hi [Name], Adam here from EGS — just wanted to check if you had a chance to listen to my message. Happy to keep it brief — just want to find out if what we do is relevant for you. Let me know."*
+
+If no reply:
+
+> *"Hi [Name], Adam from EGS here — just checking if you had a chance to go through my message. Happy to keep it short — just want to find out if what we do is relevant for you. Let me know."*
 
 ### Step 4 — If Still No Reply After 1 Week
-Call back and ask for them by name. You now have a reason: *"I sent a WhatsApp but wasn't sure if it reached the right person."*
+
+Call back. You now have a reason:
+
+> *"Hi, can I speak to [Name]? I sent a WhatsApp a few days ago but wasn't sure if it reached the right person."*
 
 ---
 
-## PART 8 — PRE-CALL CHECKLIST
+## PART 8 — MINDSET
 
-Before every call, answer these 4 questions:
+1. **You are not begging. You are offering a solution.** Amazon, Toyota, and Sunway chose EGS. You have something worth talking about. Walk into every call with that confidence.
 
-- [ ] What industry is this company in?
-- [ ] What is their most likely pain point?
-- [ ] Which script (A/B/C/D/E) should I use?
-- [ ] Which client name is most relevant to drop?
+2. **A "no" is not a failure. A "no" without a name is a failure.** Always leave with the decision-maker's name.
 
----
+3. **Start with their problem, not your company.** Nobody cares who you are until they feel you understand them.
 
-## PART 9 — CALL TRACKING SHEET
+4. **Follow up is where deals are won.** Most salespeople give up after 1 call. The decision-maker remembers who was persistent — politely.
 
-Track every call. This is how you improve.
+5. **Volume beats perfection.** 50 decent calls beats 5 perfect ones. Get on the phone.
 
-| Date | Company | Industry | Who Answered | Got DM Name? | Objection | Follow-Up Sent? | Next Step |
-|------|---------|----------|-------------|--------------|-----------|-----------------|-----------|
-| | | | | | | | |
-| | | | | | | | |
-
-After every 20 calls, review:
-- Which industries respond best?
-- Which objection comes up most?
-- How many DM names did I get?
-- How many meetings booked?
+6. **Rejection is feedback.** Each "not interested" teaches you something — wrong timing, wrong industry, wrong angle. Note it down and adjust.
 
 ---
 
-## PART 10 — MINDSET RULES
-
-1. **You are not begging. You are offering value.** Amazon, Toyota, and Sunway trusted EGS. You have something worth talking about.
-2. **A no is not a failure. A no without a name is a failure.** Always leave with the decision-maker's name.
-3. **Volume beats perfection.** A decent script made 50 times beats a perfect script made 5 times.
-4. **Rejection is information.** Every "not interested" tells you something — wrong industry, wrong timing, wrong angle.
-5. **Follow up is where deals are made.** Most salespeople stop after 1 attempt. Decision-makers respect persistence done politely.
-
----
-
-## QUICK REFERENCE — ONE PAGE
+## QUICK REFERENCE CARD
+*Print this page and keep it on your desk*
 
 ```
-WHO ARE THEY?          WHICH SCRIPT?    DROP THIS NAME
----------------------------------------------------------
-Manufacturer           Script A         Toyota
-Property Developer     Script B         Sunway / Amazon
-Interior Designer      Script C         Custom decor work
-F&B / Cafe / Retail    Script D         Commercial fit-out
-Signage / Branding     Script E         Rock 7 / GreenBay
+┌──────────────────────────────────────────────────────────────────┐
+│  WHO ARE THEY?         SCRIPT    DROP THIS NAME        THEIR PAIN │
+├──────────────────────────────────────────────────────────────────┤
+│  Factory/Manufacturer    A       Toyota                Parts wrong, slow delivery │
+│  Property Developer      B       Sunway / Amazon       Too many contractors, delays │
+│  Interior Designer       C       Custom decor work     Fabricator can't execute design │
+│  Café / Restaurant       D       Commercial fit-out    Generic look, expensive reno │
+│  Signage / Retail        E       Rock 7 / GreenBay     Cheap signage, slow supplier │
+└──────────────────────────────────────────────────────────────────┘
 
-GATEKEEPER?            → Ask for DM name + direct number only
-WHATSAPP REQUEST?      → Get name first, then voice note + text
-NO = NOT NOW?          → Ask when to follow up, set reminder
+GATEKEEPER?        → Ask for DM name + direct number only. Do NOT pitch.
+"JUST WHATSAPP"?   → Get a name first. Then voice note → text → follow up day 3.
+NO = NOT NOW?      → Ask when to follow up. Set a reminder. Call back.
+
+5-STEP CALL FLOW:
+  1. Introduce yourself (short)
+  2. Name THEIR problem first
+  3. Drop one relevant client name
+  4. Ask if the problem is real for them
+  5. Book a meeting or get the DM name
 ```
 
 ---
