@@ -184,7 +184,7 @@ This is the most important section. Study this before you call any industry.
 
 **Call opener:**
 
-> *"Hi, this is Adam — Adam Mohamed. I just have a quick question for you."*
+> *"Hi, is this [Company Name]? Perfect — Adam here from Eve Global Solutions. I'll get straight to the point."*
 
 *(Wait for them to say okay)*
 
