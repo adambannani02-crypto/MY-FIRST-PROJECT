@@ -210,15 +210,38 @@ static_data = [
     ("Static 3", "Local mesh control: 0.25 mm max / 0.125 mm min", "Second refinement — stress contour smoother, fewer colour bands at the fillet"),
     ("Static 4", "Local mesh control: 0.125 mm max / 0.0625 mm min", "Finest refinement — smooth, continuous stress contour with no blotchiness"),
 ]
+static_confirmed = {
+    "Static 1": [
+        ("Mesh type:", "Blended curvature-based mesh"),
+        ("Max element size:", "2.00 mm"),
+        ("Min element size:", "1.00 mm"),
+        ("Mesh quality (Jacobian points):", "8"),
+        ("Element size growth ratio:", "1.4"),
+    ]
+}
+
 for name, mesh, note in static_data:
     slide = prs.slides.add_slide(blank_layout)
     slide_header(slide, f"Criteria 2: {name} — Mesh & Stress Plot", mesh)
     add_rect(slide, 0.3, 1.25, 6.1, 5.6, RGBColor(0xF9,0xF9,0xF9))
     add_rect(slide, 0.3, 1.25, 6.1, 0.42, MID_BLUE)
     add_text(slide, "Mesh Details", 0.4, 1.27, 5.9, 0.36, font_size=13, bold=True, color=WHITE)
-    tb = slide.shapes.add_textbox(Inches(0.45), Inches(1.9), Inches(5.85), Inches(2.0))
+    tb = slide.shapes.add_textbox(Inches(0.45), Inches(1.9), Inches(5.85), Inches(3.3))
     tf = tb.text_frame; tf.word_wrap = True
-    p = tf.paragraphs[0]; p.space_before = Pt(6)
+    first_line = True
+
+    confirmed = static_confirmed.get(name)
+    if confirmed:
+        for label, val in confirmed:
+            p = tf.paragraphs[0] if first_line else tf.add_paragraph()
+            first_line = False
+            p.space_before = Pt(6)
+            r1 = p.add_run(); r1.text = label + " "; r1.font.bold = True; r1.font.size = Pt(11); r1.font.color.rgb = DARK_BLUE
+            r2 = p.add_run(); r2.text = val; r2.font.size = Pt(11); r2.font.color.rgb = GREEN
+
+    p = tf.paragraphs[0] if first_line else tf.add_paragraph()
+    first_line = False
+    p.space_before = Pt(10)
     r1 = p.add_run(); r1.text = "Total Elements: "; r1.font.bold = True; r1.font.size = Pt(12); r1.font.color.rgb = DARK_BLUE
     r2 = p.add_run(); r2.text = "[ INSERT FROM MESH DETAILS ]"; r2.font.size = Pt(12); r2.font.italic = True; r2.font.color.rgb = ORANGE
     p2 = tf.add_paragraph(); p2.space_before = Pt(10)
@@ -257,21 +280,21 @@ for ri, row in enumerate(rows):
         add_text(slide, cell, col_x[ci]+0.05, y+0.05, col_w[ci]-0.1, 0.45, font_size=10, color=col, align=PP_ALIGN.CENTER, italic=(cell=="[ ]"))
 add_rect(slide, 0.3, 5.0, 12.73, 1.95, RGBColor(0xFC,0xF1,0xD8))
 add_rect(slide, 0.3, 5.0, 12.73, 0.4, YELLOW)
-add_text(slide, "Instructions to Complete This Table", 0.4, 5.02, 12.5, 0.34, font_size=12, bold=True, color=WHITE)
+add_text(slide, "Methodology: Why Mesh Size is Halved Each Iteration", 0.4, 5.02, 12.5, 0.34, font_size=12, bold=True, color=WHITE)
 tb = slide.shapes.add_textbox(Inches(0.45), Inches(5.5), Inches(12.4), Inches(1.4))
 tf = tb.text_frame; tf.word_wrap = True
 notes = [
-    "1. Re-probe each Static study using \"At Node number\" or the exact same XYZ coordinate (e.g. -4.5, -36.8, 4.0 mm) so every study reads the SAME location.",
-    "2. Get element counts from right-click Mesh > Details for each study.",
-    "3. Calculate % Change = |Stress(n) - Stress(n-1)| / Stress(n) x 100%. Stop once this is <= 2%.",
-    "4. Once converged, this table feeds directly into the convergence graph on the next slide.",
+    "This is a standard \"h-refinement\" convergence study: maximum and minimum element size are halved at each step (2/1 -> 0.5/0.25 -> 0.25/0.125 -> 0.125/0.0625 mm) so mesh density is the only variable changing between studies.",
+    "Halving in a fixed ratio isolates mesh density as the cause of any stress change, rather than an arbitrary refinement amount — this proves the result is mesh-independent, not a coincidence of one mesh setting.",
+    "Re-probe each Static study at the exact SAME node/location (use \"At Node number\" or the same XYZ coordinate) — comparing different locations invalidates the convergence ratio.",
+    "Calculate % Change = |Stress(n) - Stress(n-1)| / Stress(n) x 100%. Once this is <= 2%, the mesh is fine enough that further refinement will not meaningfully change the result — convergence is achieved.",
 ]
 first = True
 for n in notes:
     p = tf.paragraphs[0] if first else tf.add_paragraph()
     first = False
     p.space_before = Pt(4)
-    r = p.add_run(); r.text = n; r.font.size = Pt(10); r.font.color.rgb = GRAY
+    r = p.add_run(); r.text = n; r.font.size = Pt(9.5); r.font.color.rgb = GRAY
 
 # ───────────────────────────────────────────── SLIDE 13 — CONVERGENCE GRAPH
 slide = prs.slides.add_slide(blank_layout)
