@@ -12,6 +12,9 @@ Then use:
   hotels, interior designers, furniture brands, artists).
 - **EMAIL_TEMPLATES.md** — cold email templates for the same verticals,
   for contacts better reached by email than DM.
+- **OUTREACH_DRAFTS.md** — ready-to-send DM/email copy, personalized for
+  every specific business in the tracker (not fill-in-the-blank) — start
+  here when you're ready to actually send.
 - **PROSPECT_TRACKER.csv** — outreach tracker, pre-populated with real
   Cairo prospects found via research (business name, Instagram handle,
   fit notes) plus the pipeline columns to fill in as you work the list.
