@@ -143,13 +143,27 @@ not an approximation of it.
 White-label fabrication partner available. DM "SPEC" to send us a drawing.
 ```
 
-**Post 11 (weekend) — CASE STUDY (if a project is delivered by now)**
+**Post 11 (weekend) — CASE STUDY — real delivered project**
 ```
 P R J - 0 1
-[CLIENT NAME / TYPE OF SPACE]
+CUSTOM METAL MATCHBOXES
+Client: Wedding Planner — Cairo
 Brief → Design → Fabricate → Deliver.
-[1-line result — e.g. "14 custom brackets, delivered in 9 days."]
-Tag a brand that needs this.
+200 pieces. One spec. Zero variation. In-house, Cairo.
+This is what "no minimums" actually means — one-off or 200, same
+precision.
+Planning an event that needs something custom, at scale? DM "MATCH."
+```
+
+**Post 11b (weekend) — B2B PITCH — Wedding planners**
+```
+0 6 / F O R   W E D D I N G   P L A N N E R S
+FAVORS AND SIGNAGE YOUR COUPLES WON'T THROW AWAY.
+We designed + built 200 custom metal matchboxes for a wedding planner —
+guests kept every one.
+Custom favors, table numbers, signage, backdrop structures — any
+quantity, one studio.
+DM "MATCH" and we'll send ideas for your next event.
 ```
 
 ---

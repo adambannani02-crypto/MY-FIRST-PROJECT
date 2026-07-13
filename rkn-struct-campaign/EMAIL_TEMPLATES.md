@@ -78,6 +78,41 @@ rkn-struct.com · @rkn.structure · +20 1203 922 224
 
 ---
 
+# WEDDING PLANNERS / EVENT PLANNING AGENCIES
+
+**Subject:** Custom fabrication for weddings — favors, signage, table pieces (proven at 200-piece scale)
+
+```
+Hi [Name],
+
+I'm reaching out from RKN.STRUCT, a Cairo-based design and fabrication
+studio. We recently designed and produced a run of 200 custom metal
+matchboxes for a wedding planner — a favor guests actually kept, made
+entirely in-house, on spec and on time.
+
+We work across metal, cement, glass, wood, and acrylic, so beyond favors
+we can also cover:
+
+- Custom table numbers, place-card holders, and signage
+- Ceremony/backdrop structures and installation pieces
+- Branded small-batch objects for gifting or decor
+
+Every piece is CAD-designed and rendered for approval before production,
+and we can produce anywhere from a handful of pieces to a few hundred,
+depending on the guest count.
+
+If you have an upcoming wedding or event that needs something custom-made,
+I'd like to send a few concepts at no cost. Attached is a short overview
+of our studio.
+
+Best,
+[Your Name]
+RKN.STRUCT
+rkn-struct.com · @rkn.structure · +20 1203 922 224
+```
+
+---
+
 # HOTELS / HOSPITALITY MANAGEMENT COMPANIES
 
 **Subject:** In-house custom fabrication partner for [Hotel/Group Name]

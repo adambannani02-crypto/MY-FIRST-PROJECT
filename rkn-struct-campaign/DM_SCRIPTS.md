@@ -75,6 +75,43 @@ a rough concept, no cost to look?
 
 ---
 
+# WEDDING PLANNERS
+
+**Opener**
+```
+Hey [Name] — [specific: a recent wedding they posted / their styling on a
+particular event]. We're RKN.STRUCT, a Cairo fabrication studio — we
+actually just built a run of custom metal matchboxes for a wedding
+planner, 200 pieces, all identical, on-spec.
+Do you ever source custom favors, signage, or table pieces, or is that
+mostly bought off the shelf?
+```
+
+**Day 3 bump**
+```
+No pressure — just floating this in case it's useful for an upcoming
+event: we can do custom metal/wood/acrylic favors, table numbers, or
+signage in small-to-mid batches (we've done runs of 200+ before). Want me
+to send a couple of ideas?
+```
+
+**Day 7 value-add**
+```
+Sharing a photo from that matchbox run [attach photo] — gives a sense of
+finish quality at scale. If you've got a wedding coming up that needs
+something custom-made, happy to sketch a concept, no cost to look.
+```
+
+**If they ask for the matchbox story directly:**
+```
+Yeah! A planner wanted something guests would actually keep — we designed
+and fabricated 200 custom metal matchboxes in-house, all to spec, on
+their timeline. That's basically the model: whatever the concept is, we
+design it, then produce it at whatever quantity the event needs.
+```
+
+---
+
 # HOTELS / HOSPITALITY
 
 **Opener**

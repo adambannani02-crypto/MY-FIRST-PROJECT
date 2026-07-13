@@ -43,6 +43,13 @@ anything is cut. You only pay the balance once it's in your hands."* That
 single sentence removes the two biggest fears a brand has about hiring an
 unfamiliar fabricator — surprise results, and paying upfront for nothing.
 
+**Proof point to use everywhere:** RKN has already delivered a 200-piece
+run of custom metal matchboxes for a wedding planner. Use this as the
+answer to the objection every prospect is quietly thinking — *"can a
+one-off object studio actually handle my quantity?"* Yes: 200 identical,
+on-spec units, produced in-house. This is the single strongest case study
+in the arsenal until more B2B projects are delivered — lead with it.
+
 # 03 / TARGET SEGMENTS
 
 | Segment | What they need from RKN | Where to find them |
@@ -53,12 +60,22 @@ unfamiliar fabricator — surprise results, and paying upfront for nothing.
 | Interior design studios | White-label fabrication partner — they spec it, RKN builds it | Instagram interior design accounts, architecture firms, project tags |
 | Furniture brands | Manufacturing/production partner, private-label runs | Local furniture labels without in-house metal capability |
 | Independent artists | 1-of-1 sculptural pieces, gallery/installation fabrication | Cairo art scene, galleries, design weeks (Cairo Design Week, D-CAF), artist collectives on Instagram |
+| Wedding planners | Custom favors, signage, table numbers, ceremony/backdrop structures, branded small-batch objects (proven: 200-piece metal matchbox run) | Instagram wedding-planner accounts, wedding expos, bridal media pages |
 
-Priority order for the first 30 days: **restaurants and clothing brands**
-first (fastest sales cycle, lowest deal friction, most visible social proof
-once delivered), then **interior designers and hotels** (longer cycle,
-bigger tickets), then **furniture brands and artists** (relationship-based,
-slower but high-value/high-prestige).
+Priority order for the first 30 days: **restaurants, clothing brands, and
+wedding planners** first (fastest sales cycle, lowest deal friction, most
+visible social proof once delivered — wedding planners especially, since
+there's already a delivered case study to point to), then **interior
+designers and hotels** (longer cycle, bigger tickets), then **furniture
+brands and artists** (relationship-based, slower but high-value/high-prestige).
+
+**Why wedding planners specifically:** every wedding has a fixed date,
+a real budget, and a planner actively sourcing "something no one else has"
+— favors, table numbers, signage, backdrop structures. That's a faster,
+more emotional close than most B2B categories, and it's recurring: one
+happy planner books RKN again for their next 5–10 events a year, and tags
+RKN in wedding content seen by thousands of prospective couples and other
+planners.
 
 # 04 / CAMPAIGN PHASES
 
